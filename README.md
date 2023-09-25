@@ -12,7 +12,7 @@ https://bitly.ws/VEav
 
 They include screenshots of :
 - Frontend 
-- Xampp server - Input table structure
-                 Output table structure
-                 Input table view
-                 Output table view 
+- Xampp server - Input table structure,
+                 Output table structure,
+                 Input table view,
+                 and Output table view. 
